@@ -1,0 +1,6 @@
+dist/
+*.zip
+.env
+.dev.vars
+.local/
+node_modules/

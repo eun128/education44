@@ -1,0 +1,1 @@
+{"name":"mureumpyo","private":true,"type":"module","scripts":{"build":"node build.mjs","start":"node preview.mjs","test":"node --test test.mjs"}}
